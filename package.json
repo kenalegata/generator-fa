@@ -1,6 +1,6 @@
 {
   "name": "generator-fa",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Yeoman generator",
   "license": "BSD-2-Clause",
   "main": "app/index.js",
