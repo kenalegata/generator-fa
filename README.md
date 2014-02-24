@@ -23,16 +23,16 @@ $ npm install -g yo
 
 Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-f5assemble from npm, run:
+To install generator-fa from npm, run:
 
 ```
-$ npm install -g generator-f5assemble
+$ npm install -g generator-fa
 ```
 
 Finally, initiate the generator:
 
 ```
-$ yo f5assemble
+$ yo fa
 ```
 
 ### Getting To Know Yeoman

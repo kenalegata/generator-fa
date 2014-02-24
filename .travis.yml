@@ -3,5 +3,5 @@ node_js:
   - '0.10'
 before_install:
   - currentfolder=${PWD##*/}
-  - if [ "$currentfolder" != 'generator-f5assemble' ]; then cd .. && eval "mv $currentfolder generator-f5assemble" && cd generator-f5assemble; fi
+  - if [ "$currentfolder" != 'generator-fa' ]; then cd .. && eval "mv $currentfolder generator-fa" && cd generator-fa; fi
 
