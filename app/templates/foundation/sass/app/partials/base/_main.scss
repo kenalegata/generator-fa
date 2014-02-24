@@ -1,0 +1,12 @@
+/* Main */
+html {
+  overflow-y: scroll;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: $base-background-color;
+  font: 100%/1.5 $base-font-size;
+  -webkit-text-size-adjust: 100%;
+  color: $base-font-color;
+}

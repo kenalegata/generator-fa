@@ -1,0 +1,79 @@
+// MIXINS
+// If using Foundation Framework, use their mixins
+// Or Bourbon.io (http://bourbon.io/docs) for CSS3 styling
+
+
+// FONT-SIZE / LINE HEIGHT
+@mixin font-size($font-size, $line-height:true) {
+  font-size: $font-size;
+  font-size: ($font-size / $base-font-size) * 1em;
+  @if $line-height == true {
+    line-height: ceil($font-size / $base-line-height) * ($base-line-height / $font-size);
+  }
+}
+
+// Opacity
+@mixin opacity($value, $ie:true) {
+  opacity: $value;
+  @if $ie == true {
+    $IEValue: $value*100;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity="+$IEValue+")";
+    filter: alpha(opacity=$IEValue);
+  }
+}
+
+// Transition
+//@mixin transition($properties) {
+//  -webkit-transition: $properties;
+//  -moz-transition: $properties;
+//  -ms-transition: $properties;
+//  -o-transition: $properties;
+//  transition: $properties;
+//}
+
+// Keyframes
+@mixin keyframe ($animation_name) {
+  @-webkit-keyframes $animation_name {
+    @content;
+  }
+  @-moz-keyframes $animation_name {
+    @content;
+  }
+  @-o-keyframes $animation_name {
+    @content;
+  }
+  @keyframes $animation_name {
+    @content;
+  }
+}
+
+// Animation
+@mixin animation($params) {
+  -webkit-animation: $params;
+  -moz-animation:    $params;
+  animation:         $params;
+}
+
+// Transform
+@mixin transform($params) {
+  -webkit-transform: $params;
+  -moz-transform:    $params;
+  transform:         $params;
+}
+@mixin transform-style ($params) {
+  -webkit-transform-style: $params;
+  -moz-transform-style:    $params;
+  transform-style:         $params;
+}
+
+// Perspective
+@mixin perspective($depth: none) { // none | <length>
+  -webkit-perspective: $depth;
+  -moz-perspective:    $depth;
+  perspective:         $depth;
+}
+@mixin perspective-origin($value: 50% 50%) {
+  -webkit-perspective-origin: $value;
+  -moz-perspective-origin:    $value;
+  perspectiv-origine:         $value;
+}

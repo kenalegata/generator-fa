@@ -1,0 +1,41 @@
+{
+  "name": "generator-f5assemble",
+  "version": "0.0.0",
+  "description": "Yeoman generator",
+  "license": "BSD-2-Clause",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kenalegata/generator-f5assemble.git"
+  },
+  "author": "Kenneth Alegata <ken.alegata@gmail.com> (https://github.com/kenalegata)",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kenalegata/generator-f5assemble/issues"
+  },
+  "homepage": "https://github.com/kenalegata/generator-f5assemble",
+  "directories": {
+    "test": "test"
+  }
+}
