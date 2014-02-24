@@ -1,4 +1,4 @@
-# generator-f5assemble [![Build Status](https://secure.travis-ci.org/kenalegata/generator-f5assemble.png?branch=master)](https://travis-ci.org/kenalegata/generator-f5assemble)
+# generator-fa [![Build Status](https://secure.travis-ci.org/kenalegata/generator-f5assemble.png?branch=master)](https://travis-ci.org/kenalegata/generator-f5assemble)
 
 > [Yeoman](http://yeoman.io) generator
 
