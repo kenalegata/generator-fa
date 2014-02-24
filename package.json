@@ -1,12 +1,12 @@
 {
-  "name": "generator-f5assemble",
-  "version": "0.0.0",
+  "name": "generator-fa",
+  "version": "1.0.0",
   "description": "Yeoman generator",
   "license": "BSD-2-Clause",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kenalegata/generator-f5assemble.git"
+    "url": "git://github.com/kenalegata/generator-fa.git"
   },
   "author": "Kenneth Alegata <ken.alegata@gmail.com> (https://github.com/kenalegata)",
   "engines": {
@@ -32,9 +32,9 @@
     "yo": ">=1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/kenalegata/generator-f5assemble/issues"
+    "url": "https://github.com/kenalegata/generator-fa/issues"
   },
-  "homepage": "https://github.com/kenalegata/generator-f5assemble",
+  "homepage": "https://github.com/kenalegata/generator-fa",
   "directories": {
     "test": "test"
   }
