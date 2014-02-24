@@ -2,6 +2,9 @@
 @charset "UTF-8";
 
 // Behold, here are all the Foundation components.
+@import "foundation/functions";
+@import "foundation/settings";
+
 @import
   "foundation/components/accordion",
   "foundation/components/alert-boxes",

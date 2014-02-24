@@ -32,7 +32,7 @@ module.exports = function(grunt) {
         },
       },
       sass: {
-        files: ['app/sass/{,*/}*.{scss,sass}'],
+        files: ['app/sass/**/*.scss'],
         tasks: ['watchcontexthelper:sass'],
         options: {
           nospawn: true
@@ -89,7 +89,8 @@ module.exports = function(grunt) {
 
     open: {
       server: {
-        path: 'http://localhost:<%%= connect.options.port %>/html/'
+        path: 'http://localhost:<%%= connect.options.port %>/html/',
+        app: 'chrome'
       }
     },
     sass: {

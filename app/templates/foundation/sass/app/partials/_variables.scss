@@ -13,9 +13,9 @@ $h5-size:           16px!default; // .epsilon
 $h6-size:           15px!default; // .zeta
 
 // Colors
-$base-font-color       : foo;
-$secondary-font-color  : foo;
-$base-background-color : foo;
+$base-font-color       : #eee;
+$secondary-font-color  : #ccc;
+$base-background-color : #fff;
 
 // Typography
 $base-font      : foo;
@@ -23,9 +23,9 @@ $secondary-font : foo;
 $base-font-size : foo;
 
 // Layout
-$max-width         : foo;
-$column-width      : foo;
-$number-of-columns : foo;
+$max-width         : 1000;
+$column-width      : 30;
+$number-of-columns : 12;
 
 // Breakpoints
 
