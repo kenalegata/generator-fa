@@ -6,7 +6,7 @@ html {
 
 body {
   background: $base-background-color;
-  font: 100%/1.5 $base-font-size;
+  font: $base-font-size/$base-line-height $base-font;
   -webkit-text-size-adjust: 100%;
   color: $base-font-color;
 }

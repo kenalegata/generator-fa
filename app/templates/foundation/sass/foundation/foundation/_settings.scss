@@ -34,7 +34,7 @@
 // $row-width: rem-calc(1000);
 $row-width: rem-calc($max-width);
 // $column-gutter: rem-calc(30);
-$column-gutter: rem-calc($column-width);
+$column-gutter: rem-calc($column-gutter-width);
 // $total-columns: 12;
 $total-columns: $number-of-columns;
 
