@@ -25,7 +25,7 @@ $base-font-size    :  100% !default;
 $base-line-height  :  1.6 !default;
 
 // Layout
-$max-width                : 1000;
+$max-width                : 1000; // Use $row-width
 $column-gutter-width      : 30;
 $number-of-columns        : 12;
 
