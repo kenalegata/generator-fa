@@ -1,3 +1,7 @@
+/* sass/app/partials/generic/_mixins.scss */
+
+/* mixins generic */
+
 // MIXINS
 // If using Foundation Framework, use their mixins
 // Or Bourbon.io (http://bourbon.io/docs) for CSS3 styling
@@ -23,13 +27,13 @@
 }
 
 // Transition
-//@mixin transition($properties) {
-//  -webkit-transition: $properties;
-//  -moz-transition: $properties;
-//  -ms-transition: $properties;
-//  -o-transition: $properties;
-//  transition: $properties;
-//}
+@mixin transition($properties) {
+ -webkit-transition: $properties;
+ -moz-transition: $properties;
+ -ms-transition: $properties;
+ -o-transition: $properties;
+ transition: $properties;
+}
 
 // Keyframes
 @mixin keyframe ($animation_name) {

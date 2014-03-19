@@ -1,9 +1,17 @@
+/* sass/app/main.scss */
+
+/* main */
+
 @charset "UTF-8";
 
 
 // Config
 @import
 	"partials/config";
+
+// Generic
+@import
+	"partials/generic";
 
 // Foundation
 @import
@@ -16,10 +24,6 @@
 // Base
 @import
 	"partials/base";
-
-// Generic
-@import
-	"partials/generic";
 
 // Layout
 @import

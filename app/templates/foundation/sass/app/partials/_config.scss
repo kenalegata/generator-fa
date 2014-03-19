@@ -1,13 +1,6 @@
-// VARIABLES
+/* sass/app/partials/_config.scss */
 
-
-// Headings
-$h1-size:           36px !default;
-$h2-size:           24px !default;
-$h3-size:           21px !default;
-$h4-size:           18px !default;
-$h5-size:           16px !default;
-$h6-size:           15px !default;
+/* Configs */
 
 // Layout Colors
 $base-background-color : #fff;
@@ -15,6 +8,9 @@ $base-background-color : #fff;
 // Font Colors
 $base-font-color       : #eee;
 $secondary-font-color  : #ccc;
+$link-color            : #333;
+$link-hover-color      : #0074D9;
+$link-active-color     : #0074D9;
 
 // Font Family
 $base-font      : Arial;
