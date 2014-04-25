@@ -4,11 +4,15 @@
 
 html {
   -webkit-font-smoothing: antialiased;
+  height: auto;
 }
 
 body {
   background: $base-background-color;
-  font: $base-font-size/$base-line-height $base-font;
+  font-family: $base-font;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
   -webkit-text-size-adjust: 100%;
   color: $base-font-color;
+  height: auto;
 }

@@ -183,6 +183,11 @@ module.exports = function(grunt) {
           { expand: true, cwd: 'app/img/', src: '**/*', dest: 'dist/img/' },
         ],
       },
+      fonts: {
+        files: [
+          { expand: true, cwd: 'app/fonts/', src: '**/*', dest: 'dist/fonts/'  },
+        ],
+      },
       html: {
         files: [
           { expand: true, cwd: 'app/html/pages/', src: '**/*.html', dest: 'dist/html/' },
@@ -196,6 +201,7 @@ module.exports = function(grunt) {
       css: [ 'dist/css' ],
       html: [ 'dist/html' ],
       img: [ 'dist/img' ],
+      fonts: [ 'dist/fonts' ],
       devjs: [ 'dist/js/**/*.js', '!dist/js/**/*.min.js' ],
       devcss: [ 'dist/css/*.css', '!dist/css/*.min.css' ],
     }
@@ -277,6 +283,7 @@ module.exports = function(grunt) {
     'cssmin',
     'clean:devcss',
     'copy:img',
+    'copy:fonts',
     'copy:js',
     'uglify',
     'clean:devjs',
@@ -289,6 +296,7 @@ module.exports = function(grunt) {
     'concat',
     'sass',
     'copy:img',
+    'copy:fonts',
     'copy:js',
     'copy:html',
     'assemble:development'

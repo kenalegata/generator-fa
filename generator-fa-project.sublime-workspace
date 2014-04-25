@@ -1,0 +1,1204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"map",
+				"mapProperty"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"sortb",
+				"sortByAlphabet"
+			],
+			[
+				"sortBy",
+				"sortByAlphabet"
+			],
+			[
+				"accord",
+				"accordion-toggler"
+			],
+			[
+				"so",
+				"sortByType"
+			],
+			[
+				"sort",
+				"sortByPlace"
+			],
+			[
+				"form-check",
+				"form-checkboxes-single-list"
+			],
+			[
+				"sa",
+				"stateStatus"
+			],
+			[
+				"smoo",
+				"smoothScrollId"
+			],
+			[
+				"state",
+				"stateStatus"
+			],
+			[
+				"filter",
+				"filterString"
+			],
+			[
+				"fil",
+				"filterString"
+			],
+			[
+				"an",
+				"any_filter_set"
+			],
+			[
+				"fi",
+				"filterString"
+			],
+			[
+				"c",
+				"currentDataImg"
+			],
+			[
+				"curr",
+				"currentContainerHeight"
+			],
+			[
+				"desc",
+				"descriptionPosition"
+			],
+			[
+				"top",
+				"topPosition"
+			],
+			[
+				"current",
+				"currentContainerHeight"
+			],
+			[
+				"des",
+				"descriptionHeight"
+			],
+			[
+				"User",
+				"UserDetailCtrl"
+			],
+			[
+				"temp",
+				"templateUrl"
+			],
+			[
+				"re",
+				"resource"
+			],
+			[
+				"angular",
+				"angularServices"
+			],
+			[
+				"m",
+				"MainCtrl"
+			],
+			[
+				"ang",
+				"angularControllers"
+			],
+			[
+				"nav",
+				"NavCtrl"
+			],
+			[
+				"users",
+				"usersQuery"
+			],
+			[
+				"table-s",
+				"table-subscribe-alternate"
+			],
+			[
+				"table",
+				"table-subscribe-accordion-content"
+			],
+			[
+				"user",
+				"usersFactory"
+			],
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"Handel",
+				"Handelsgymnasium"
+			],
+			[
+				"butto",
+				"button-green"
+			],
+			[
+				"dona",
+				"donationType"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"te",
+				"temp_string"
+			],
+			[
+				"ad",
+				"andetBelog"
+			],
+			[
+				"bvalidar",
+				"bvalidator_invalid"
+			],
+			[
+				"input",
+				"input_valid_counter"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"parent",
+				"parentForm"
+			],
+			[
+				"de",
+				"defaultSort"
+			],
+			[
+				"list-",
+				"list-filter"
+			],
+			[
+				"l-table",
+				"l-table-switch"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"ifram",
+				"iframeDocHeight"
+			],
+			[
+				"wrapper",
+				"wrapper_height"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"accordion",
+				"accordion-content"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"es",
+				"elsif	elsif ..."
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"icon",
+				"icon-arrow-down-gray"
+			],
+			[
+				"button",
+				"button-small"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"gray-light",
+				"gray-light-4"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"color",
+				"color-plus"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"js",
+				"js_show-form-login"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"Fast",
+				"FastClick"
+			],
+			[
+				"collp",
+				"collapsed"
+			],
+			[
+				"heade",
+				"header-static"
+			],
+			[
+				"slide",
+				"slider-images"
+			],
+			[
+				"right",
+				"right-arrow-container"
+			],
+			[
+				"span",
+				"span-columns"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"collap",
+				"collapsible"
+			],
+			[
+				"coll",
+				"collapsible"
+			],
+			[
+				"mi",
+				"middleman-livereload"
+			],
+			[
+				"h",
+				"h_testimonial_line"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/templates/foundation/sass/app/partials/base/_main.scss",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/foundation/sass/app/partials/_config.scss",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/foundation/html/layouts/default.hbs",
+			"settings":
+			{
+				"buffer_size": 1205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/foundation/sass/app/partials/modules/widget-block/_widget-block.scss",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Emmet: Decrement Number by 0.1"
+			],
+			[
+				"\\",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"xi",
+				"Create Xiki Buffer"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl n",
+				"SublimeREPL: Node"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"scsss",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"livestyle",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"livestly",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"livest",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"liv",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"lives",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"package control insa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 220.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/generator-test/generator-fa/.editorconfig",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/_partials/_html-top.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/generator-test/generator-fa/app/templates/Gruntfile.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/sections/plus/oversight.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/layouts/layout.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/generator-test/generator-fa/app/templates/foundation/sass/app/partials/_config.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/_config.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/base/_headings.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/modules/button/_button--modifiers.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/Gruntfile.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/modules/main-block/_main-block.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/html/pages/sample-work.hbs",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/html/pages/work-detail/sample-work.hbs",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/modules/_grid-course.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/sections/plus/index.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/layouts/layout.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/RH2013/source/stylesheets/_partials/generic/_fonts.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/generic/_fonts.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/html/partials/sidebar.hbs",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/base/_main.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/modules/media-block/_media-block__elements.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/modules/media-block/_media-block--modifiers.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/partials/modules/media-block/_media-block.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/sass/app/main.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/html/partials/widget.hbs",
+		"/C/Users/Kenneth.Alegata/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/Kenneth.Alegata/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Kenneth.Alegata/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kenneth.Alegata/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/app/html/pages/index.hbs",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/test.sublime-project",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/form-2.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/plugins.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/_angular/app.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/_angular/controller.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/js/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/_angular/services.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/_angular/directive.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/charts.json",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/css/main.css",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/index.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/generator-test/generator-fa/package.json",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/_required/visualize.jQuery.js",
+		"/C/Users/Kenneth.Alegata/Desktop/aab/test.html",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/generator-test/generator-fa/app/templates/foundation/sass/app/main.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/generator-test/generator-fa/app/templates/foundation/sass/app/partials/_variables.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_extensions/extension.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/_partials/_sidebar-filter.erb",
+		"/C/Users/Kenneth.Alegata/Desktop/Sweetheart/all.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_angular/filter.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_angular/services.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_angular/controller.js",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/index.html",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/form-3.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/form-3.html",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/vanilla.html",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/Chart.js-master/Chart.js-master/samples/bar.html",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/js/example.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/courses-json.json",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/editable.html",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/js/visualize.jQuery.js",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/js/excanvas.js",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/js/example-editable.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/config.rb",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/jQuery-Visualize-master (1)/jQuery-Visualize-master/README.md",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/json/charts.json",
+		"/C/Users/Kenneth.Alegata/Documents/Important files/Chart.js-master/Chart.js-master/docs/index.html",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Prototype-Chart/source/js/_json/charts.json",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/angular.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_angular/directive.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/all.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/config.rb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/_partials/_sidebar-accordion.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/sections/hg/teachers.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/modules/_article-secondary.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/sections/plus/tekstside.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_extensions/fix.scss.css",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_extensions/extension.scss.css",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/style.css.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/base.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/base/_main.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_partials/accordion.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/tietgen/source/css/_partials/modules/_article-primary.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/tietgen/source/css/print.css.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/tietgen/source/css/_partials/layout/_nav.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/modules/_blocks.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/style-hg.css.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/style-handelsgymnasium.css.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/style-nyborg.css.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/style-plus.css.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/tietgen/source/css/_partials/modules/_grid-course.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/modules/_table-course.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/modules/_nav-mobile.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/layout/_header.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/_partials/nav-main-dropdown.js",
+		"/C/Users/Kenneth.Alegata/Documents/xiki/etc/command/copy_xiki_command_to.rb",
+		"/C/Users/Kenneth.Alegata/Documents/xiki/bin/xiki",
+		"/C/Users/Kenneth.Alegata/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Kenneth.Alegata/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/js/plus.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/_partials/_html-bottom.erb",
+		"/C/Users/Kenneth.Alegata/Desktop/aab/Extension.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/js/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/tietgen/source/css/_partials/foundation/components/_grid.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Tietgen/source/css/_partials/generic/_mixins.scss",
+		"/C/Users/Kenneth.Alegata/Desktop/aab/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/contact-page.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB-new/source/css/_partials/_contact-form.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB-new/source/form-3.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB-new/source/css/_partials/inuit.css/partials/base/_forms.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Telepristjek/source/css/partials/_main.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Telepristjek/source/js/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Telepristjek/source/css/partials/_base.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Telepristjek/source/edit.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/Telepristjek/source/index.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/css/_partials/_search.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/subsite.html.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB-new/source/js/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/bookmarks_3_5_14.html",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB-new/js/main.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/css/_partials/_icons.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/aab/source/css/_partials/_search.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/js/index.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/js/base.js",
+		"/C/Users/Kenneth.Alegata/Documents/projects/AAB/source/layouts/layout.erb",
+		"/C/Users/Kenneth.Alegata/Documents/projects/aab/css/sass/_search.scss",
+		"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project2/Gruntfile.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\tietgen",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\aab",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\aab-new",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\testing/project2",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\tietgen",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\aab",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\greenland",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\AAB",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\aab",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\tietgen",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\RH2013",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\RH2013-Updates",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\relationhouse_site",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen1",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-110513\\source\\",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-110513\\source\\sections\\plus\\index.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-110513\\source\\sections\\handelsgymnasium\\index.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-110513\\source\\sections\\hg\\index.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-110513\\source\\sections\\main\\index.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-110513\\source\\sections\\nyborg\\index.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Saxo\\source\\receipt-c.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Saxo\\source\\receipt-b.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Saxo\\source\\receipt-a.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Saxo\\source\\_partials\\_modal.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\tietgen-1021",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\relationhouse_site",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-new\\source\\css",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen-new",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Nykredit-final\\source\\iframe-main.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\_partials\\_grid-course.erb,C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\_partials\\_grid-course.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\sections\\plus\\kontering-and-kontoplaner.html.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\_partials\\_footer.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\css\\_partials\\layout\\_footer.scss",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\css\\_partials\\layout\\_header.scss",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\_partials\\_header.erb",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\Tietgen\\source\\css\\_partials\\layout\\_header.scss",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\relationhouse_site\\",
+			"C:\\Users\\Kenneth.Alegata\\Documents\\projects\\relationhouse_site\\source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"pages",
+			"upload",
+			"repa",
+			"accordion.parent().parent().parent().addClass('is-active-parent');",
+			".article-image",
+			".sidebar",
+			".article-image",
+			"ltable",
+			"l-table",
+			".course-content",
+			"courseDiv",
+			".block-facebook",
+			".nav-section",
+			"run",
+			"require \"xiki/core/ol\"\n",
+			"\"\n",
+			"clearfix",
+			"clear",
+			"news",
+			"custom-dropdown",
+			">\n",
+			"Back End",
+			"front end Development",
+			"front end",
+			"    \n",
+			"});\n",
+			"scrollTop",
+			".search-letters-result",
+			".form-fields",
+			".form",
+			".form-fields",
+			".form-checkboxes",
+			".form-heckboxes",
+			"default",
+			"layou",
+			"firefox",
+			"row",
+			"grid-row",
+			".row",
+			"row-width",
+			"row",
+			"f5",
+			"kick",
+			"fe",
+			"function",
+			".contact-form{margin",
+			".contact-form",
+			"768",
+			"@media only screen and (max-width: 768px)",
+			"media",
+			"contact-form",
+			"form-fields",
+			";\n",
+			"server",
+			"assem",
+			".contact-form",
+			"form-fields",
+			"repa",
+			"tipds",
+			"color: #AAAAAA",
+			"*::-moz-placeholder",
+			".box-shortcut",
+			"radio-gender",
+			"form-item-gender",
+			".form-item-gender",
+			".block-content",
+			".block",
+			"loader.gif",
+			".table-subscribe",
+			".table-subs",
+			".responsi",
+			"icon",
+			"icon               ",
+			"article-side",
+			".",
+			"article-side",
+			"sitemap-con",
+			".section a",
+			";\n",
+			".lst-cases",
+			"$gray-med",
+			"$gray-light-2",
+			"$base-font-r",
+			".form",
+			"_partials/fonts",
+			"190px;",
+			".sidebar p, .footer .contact-details p",
+			".sidebar p, .footer .contact-details p, .footer .company-description p, .article-footer .article-content .article-footer-feature p",
+			"mobile-scroll-top",
+			".header .mobile-menu-dropdown",
+			".button-dorange, .button-gray, .button-white, .m-button",
+			"width:175px;",
+			"width: 175px;",
+			"width:175px;",
+			"width: 175px;",
+			".lst-collapse li .description a",
+			"background-repeat:no-repeat;\n",
+			"\n+			background-repeat:no-repeat;\n",
+			".process",
+			"margin:0 auto;\n",
+			"margin-right:2%;\n",
+			"line-height: 1.2;",
+			"width:in",
+			"margin-bottom:75",
+			"500",
+			".lst-window {",
+			".mobile-menu-dropdown",
+			".mobile-menu-drop",
+			".slider .slider-images .slides .slider-description h2",
+			".lst-collapse li div .collapse",
+			".layout2.article-footer .wrapper .article-footer-feature div a",
+			".process.lst",
+			".process.lst li",
+			".lst li .lst-img{",
+			".lst-window",
+			".lst, .lst-feature",
+			"font-size:40px",
+			"font-size:55px",
+			"h2{\n	font-size: 55px",
+			"h2{",
+			"padding:15",
+			".article-footer .article-content",
+			".article-footer .article-content{",
+			".article-footer .sidebar a{",
+			".article-fotter .sidebar a{",
+			"a.button-dorange",
+			".slider .slider-images .slides .slider-description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"overview-item",
+			"against",
+			"movie",
+			"row-section",
+			"tall",
+			"<span",
+			"span",
+			"ico-",
+			"$gray-dark",
+			"$gray",
+			"li",
+			"../",
+			".jpg"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/templates/foundation/sass/app/partials/base/_main.scss",
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/foundation/sass/app/partials/_config.scss",
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/templates/foundation/html/layouts/default.hbs",
+					"settings":
+					{
+						"buffer_size": 1205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/templates/foundation/sass/app/partials/modules/widget-block/_widget-block.scss",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"relationhouse_site/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"serv",
+				"/C/Users/Kenneth.Alegata/Documents/projects/Serviceviften/serviceviften.sublime-project"
+			],
+			[
+				"port",
+				"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/Portfolio-Project.sublime-project"
+			],
+			[
+				"por",
+				"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/Portfolio-Project.sublime-project"
+			],
+			[
+				"",
+				"/C/Users/Kenneth.Alegata/Documents/projects/TESTING/Project-test/test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true
+}
