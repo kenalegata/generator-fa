@@ -10,10 +10,6 @@ A Yeoman generator for front-end web projects using Foundation 5, Assemble, SASS
 - Run `yo fa` to start your project`
 - Run `grunt server`
 
-## Donate
-You can help me out by donating some cents for beer. This can help me in maintaining and improving the Generator.
-Go to this link to donate: http://kenalegata.github.io/works/generator-fa.html
-
 ## License
 
 MIT
